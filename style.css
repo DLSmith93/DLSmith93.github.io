@@ -255,7 +255,7 @@ body{
     font-family: "Raleway", sans-serif;
     margin: 0px 3%;
     padding: 7px 0px;
-    width: 75px;
+    width: 100px;
     font-size: 18px;
     transition: border-color .3s color .3s background-color .3s;
     border-radius: 7px;
